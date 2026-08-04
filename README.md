@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/renan-lovo-boni">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:renanlovoboni@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -19,10 +19,10 @@
 
 ### Sobre mim
 
- Focado em desenvolvimento **Full Stack**
- Sempre estudando novas tecnologias e boas práticas
- Curioso sobre **IA aplicada a desenvolvimento**
- Como me encontrar: adicione seus contatos aqui
+- Focado em desenvolvimento **Full Stack**
+- Sempre estudando novas tecnologias e boas práticas
+- Curioso sobre **IA aplicada a desenvolvimento**
+- Como me encontrar: adicione seus contatos aqui
 
 ---
 
@@ -41,11 +41,6 @@
 ---
 
 ### Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renannl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renannl&layout=compact&langs_count=6&theme=tokyonight" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renannl&theme=tokyonight" alt="GitHub Streak" />
