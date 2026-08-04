@@ -19,10 +19,10 @@
 
 ### Sobre mim
 
-- Focado em desenvolvimento **Full Stack**
+- Focado em desenvolvimento
 - Sempre estudando novas tecnologias e boas práticas
-- Curioso sobre **IA aplicada a desenvolvimento**
-- Como me encontrar: adicione seus contatos aqui
+- Interessado sobre **IA aplicada a desenvolvimento**
+- Aberto a oportunidades e colaborações
 
 ---
 
@@ -41,6 +41,11 @@
 ---
 
 ### Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-vert-10.vercel.app/api/top-langs/?username=Renannl&layout=compact&langs_count=6&theme=tokyonight" />
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renannl&theme=tokyonight" alt="GitHub Streak" />
